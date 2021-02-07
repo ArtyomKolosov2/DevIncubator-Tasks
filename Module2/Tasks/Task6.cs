@@ -22,7 +22,7 @@ namespace Module2.Tasks
         }
     }
 
-    public static class IntExtension
+    public static class IntExtensions
     {
         public static IEnumerable<int> GetNumbers(this int num)
         {

@@ -1,12 +1,15 @@
-﻿using System;
+﻿using Module3.Tasks;
+using System;
 
 namespace Module3
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Task7.ExecuteTask();
+            Task8.ExecuteTask();
+            Task10.ExecuteTask();
         }
     }
 }
