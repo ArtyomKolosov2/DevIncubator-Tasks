@@ -7,9 +7,11 @@ namespace Module3
     {
         static void Main(string[] args)
         {
-            Task7.ExecuteTask();
+            /*Task7.ExecuteTask();
             Task8.ExecuteTask();
-            Task10.ExecuteTask();
+            Task10.ExecuteTask();*/
+            Task11.ExecuteTask();
+            Task12.ExecuteTask();
         }
     }
 }
