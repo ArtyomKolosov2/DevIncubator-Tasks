@@ -3,13 +3,13 @@ using System;
 
 namespace Module2
 {
-    class Program
+    static class Program
     {
         public static void Main(string[] args)
         {
-            //Task3.ExecuteTask();
-            //Task4.ExecuteTask();
-            // Task5.ExecuteTask();
+            Task3.ExecuteTask();
+            Task4.ExecuteTask();
+            Task5.ExecuteTask();
             Task6.ExecuteTask();
         }
     }
