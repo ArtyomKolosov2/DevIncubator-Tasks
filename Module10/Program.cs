@@ -8,6 +8,7 @@ namespace Module10
         static void Main(string[] args)
         {
             Task24.ExecuteTask();
+            Task25.ExecuteTask();
         }
     }
 }
